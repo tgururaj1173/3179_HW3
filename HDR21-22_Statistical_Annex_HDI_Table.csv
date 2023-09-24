@@ -1,4 +1,4 @@
-rank,country,HDI,Life expectancy ,Expected YOS,Mean YOS,GNI per capita,GNI per capita rank minus HDI rank,2020 HDI rank,,,,,,,,,,,,
+rank,name,HDI,Life expectancy ,Expected YOS,Mean YOS,GNI per capita,GNI per capita rank minus HDI rank,2020 HDI rank,,,,,,,,,,,,
 1,Switzerland,0.962,84.0,16.5,13.9,"66,933",5,3,,,,,,,,,,,,
 2,Norway,0.961,83.2,18.2,13.0,"64,660",6,1,,,,,,,,,,,,
 3,Iceland,0.959,82.7,19.2,13.8,"55,782",11,2,,,,,,,,,,,,
